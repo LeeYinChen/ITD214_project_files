@@ -1,0 +1,5 @@
+condition,Q1,Median,Q3
+is_gently_used,99.0,250.0,494.0
+is_new,355.0,584.0,901.0
+is_used,70.0,150.0,188.0
+is_worn,138.75,160.0,165.0
